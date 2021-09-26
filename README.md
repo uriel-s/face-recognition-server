@@ -5,4 +5,7 @@
 Face recognition in photos
 Fullstack project
 > Server side
- > Credit to https://www.udemy.com/course/mern-stack-front-to-back/?course_id=1646980  for help that project
+ This site was built using [udemy](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8766766?start=630#questions).
+
+
+> clinet side at [here](https://github.com/uriel-s/face-recognition-client)
